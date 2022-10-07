@@ -1,0 +1,17 @@
+D:\MyProjects\ReactivitiesAPi\Presistence\bin\Debug\net6.0\Presistence.deps.json
+D:\MyProjects\ReactivitiesAPi\Presistence\bin\Debug\net6.0\Presistence.dll
+D:\MyProjects\ReactivitiesAPi\Presistence\bin\Debug\net6.0\Presistence.pdb
+D:\MyProjects\ReactivitiesAPi\Presistence\bin\Debug\net6.0\Domain.dll
+D:\MyProjects\ReactivitiesAPi\Presistence\bin\Debug\net6.0\Domain.pdb
+D:\MyProjects\ReactivitiesAPi\Presistence\obj\Debug\net6.0\Presistence.csproj.AssemblyReference.cache
+D:\MyProjects\ReactivitiesAPi\Presistence\obj\Debug\net6.0\Presistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\ReactivitiesAPi\Presistence\obj\Debug\net6.0\Presistence.AssemblyInfoInputs.cache
+D:\MyProjects\ReactivitiesAPi\Presistence\obj\Debug\net6.0\Presistence.AssemblyInfo.cs
+D:\MyProjects\ReactivitiesAPi\Presistence\obj\Debug\net6.0\Presistence.csproj.CoreCompileInputs.cache
+D:\MyProjects\ReactivitiesAPi\Presistence\obj\Debug\net6.0\Presistence.csproj.CopyComplete
+D:\MyProjects\ReactivitiesAPi\Presistence\obj\Debug\net6.0\Presistence.dll
+D:\MyProjects\ReactivitiesAPi\Presistence\obj\Debug\net6.0\refint\Presistence.dll
+D:\MyProjects\ReactivitiesAPi\Presistence\obj\Debug\net6.0\Presistence.pdb
+D:\MyProjects\ReactivitiesAPi\Presistence\obj\Debug\net6.0\ref\Presistence.dll
+D:\MyProjects\ReactivitiesAPi\presistence\bin\Debug\net6.0\Presistence.runtimeconfig.json
+D:\MyProjects\ReactivitiesAPi\presistence\obj\Debug\net6.0\Presistence.genruntimeconfig.cache
